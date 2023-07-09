@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CV - Alina Sologub</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <div class="container">
-    <div class="avatar">
-      <img src="https://example.com/path/to/avatar.jpg" alt="Avatar">
-    </div>
-    <h1>Alina Sologub</h1>
+<h1>Alina Sologub</h1>
     
 
 ## Contacts
@@ -55,14 +42,3 @@ B1 (I'm preparing to take the IELTS exam now)
 
 ## About Me
 I have had a good relationship with computers all my life, but they only *began to develop* at the end of high school, when I was choosing my life path in 2021
-    
-    <footer>
-      <a href="https://github.com/Renne103">GitHub</a>
-      <p>&copy; 2023</p>
-      <a href="https://rs.school/js/">
-        <img src="[https://example.com/path/to/course_logo.svg](https://rs.school/images/rs_school_js.svg)" alt="RS School JS Course" />
-      </a>
-    </footer>
-  </div>
-</body>
-</html>
