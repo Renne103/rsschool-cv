@@ -9,6 +9,8 @@ Email: adsologub@edu.hse.ru
 
 GitHub: Renne103
 
+Discord: renni103
+
 ## Education
 **University: HSE**
 
