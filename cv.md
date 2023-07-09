@@ -20,6 +20,7 @@ GitHub: Renne103
 * Git
 * Linux
 * Algorithms and Data Structures
+  
 **Additional**
 * Python (University course)
 * C++ (Algorithms and Data Structures Uni course)
