@@ -2,8 +2,11 @@
 
 ## Contacts
 Location: Nizhny Novgorod, Russia
+
 Phone: +8 930 719 0 219
+
 Email: adsologub@edu.hse.ru
+
 GitHub: Renne103
 
 ## Education
