@@ -5,58 +5,67 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>CV - Alina Sologub</title>
   <link rel="stylesheet" href="style.css">
+  <style>
+    /* Дополнительные стили, если необходимо */
+  </style>
 </head>
 <body>
-  <div class="avatar">
-  <img src="https://images.unsplash.com/photo-1517849845537-4d257902454a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzOTAwNXwwfDF8c2VhcmNofDd8fHByb2ZpbGUtcGljdHVyZXxlbnwwfHx8fDE2ODg5NDEyOTB8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Avatar">
-</div>
+  <div class="container">
+    <div class="avatar">
+      <img src="https://example.com/path/to/avatar.jpg" alt="Avatar">
+    </div>
     <h1>Alina Sologub</h1>
     
-    <h2>Contacts</h2>
-    <p>Location: Nizhny Novgorod, Russia</p>
-    <p>Phone: +8 930 719 0 219</p>
-    <p>Email: adsologub@edu.hse.ru</p>
-    <p>GitHub: <a href="https://github.com/Renne103">Renne103</a></p>
-    <p>Discord: renni103</p>
-    
-    <h2>Education</h2>
-    <p><strong>University: HSE</strong></p>
-    <p><strong>Faculty: Computer Science and Mathematics</strong></p>
-    <p><strong>Programm: Software Engineering</strong></p>
-    <p><em>Courses:</em></p>
-    
-    <h2>Skills</h2>
-    <p><strong>Main</strong></p>
-    <ul>
-      <li>HTML</li>
-      <li>CSS/SASS</li>
-      <li>JavaScript</li>
-      <li>Git</li>
-      <li>Linux</li>
-      <li>Algorithms and Data Structures</li>
-    </ul>
-    <p><strong>Additional</strong></p>
-    <ul>
-      <li>Python (University course)</li>
-      <li>C++ (Algorithms and Data Structures Uni course)</li>
-      <li>Assembler (University course)</li>
-      <li>Java (University course)</li>
-      <li>Maths (Mathematical Analysis, Linear Algebra, Mathematical statistics and Probability theory)</li>
-    </ul>
-    
-    <h2>English</h2>
-    <p>B1 (I'm preparing to take the IELTS exam now)</p>
-    
-    <h2>About Me</h2>
-    <p>I have had a good relationship with computers all my life, but they only <em>began to develop</em> at the end of high school, when I was choosing my life path in 2021</p>
-  </div>
+
+## Contacts
+Location: Nizhny Novgorod, Russia
+
+Phone: +8 930 719 0 219
+
+Email: adsologub@edu.hse.ru
+
+GitHub: Renne103
+
+Discord: renni103
+
+## Education
+**University: HSE**
+
+**Faculty: Computer Science and Mathematics**
+
+**Programm: Software Engineering**
+
+*Courses:*
+
+## Skills
+**Main**
+* HTML
+* CSS/SASS
+* JavaScript
+* Git
+* Linux
+* Algorithms and Data Structures
   
-  <footer>
-    <a href="https://github.com/Renne103">GitHub</a>
-    <p>&copy; 2023</p>
-    <a href="https://rs.school/js/">
-      <img src="https://rs.school/images/rs_school_js.svg" alt="RS School JS Course" />
-    </a>
-  </footer>
+**Additional**
+* Python (University course)
+* C++ (Algorithms and Data Structures Uni course)
+* Assembler (University course)
+* Java (University course)
+* Maths (Mathematical Analysis, Linear Algebra, Mathematical statistics and Probability theory)
+
+## English
+B1 (I'm preparing to take the IELTS exam now)
+
+## About Me
+I have had a good relationship with computers all my life, but they only *began to develop* at the end of high school, when I was choosing my life path in 2021
+    
+    <footer>
+      <a href="https://github.com/Renne103">GitHub</a>
+      <p>&copy; 2023</p>
+      <a href="https://rs.school/js/">
+        <img src="[https://example.com/path/to/course_logo.svg](https://rs.school/images/rs_school_js.svg)" alt="RS School JS Course" />
+      </a>
+    </footer>
+  </div>
 </body>
 </html>
