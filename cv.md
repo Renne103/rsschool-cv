@@ -11,8 +11,11 @@ GitHub: Renne103
 
 ## Education
 **University: HSE**
+
 **Faculty: Computer Science and Mathematics**
+
 **Programm: Software Engineering**
+
 *Courses:*
 
 ## Skills
