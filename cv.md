@@ -40,10 +40,15 @@ Discord: renni103
 * Maths (Mathematical Analysis, Linear Algebra, Mathematical statistics and Probability theory)
 
 ## Projects
+
 *Links:*
+
 Programming on Java: https://github.com/Renne103/Java_NN_Homeworks
+
 Programming on Python: https://github.com/Renne103/hse-python-2023
+
 Decops: https://github.com/Renne103/HW_devops
+
 Linux: https://github.com/Renne103/Linux
 
 ## English
