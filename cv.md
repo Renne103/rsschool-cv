@@ -5,9 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>CV - Alina Sologub</title>
   <link rel="stylesheet" href="style.css">
-  <style>
-    /* Дополнительные стили, если необходимо */
-  </style>
 </head>
 <body>
   <div class="container">
