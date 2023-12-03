@@ -1,2 +1,2 @@
 # rsschool-cv
-CV
+Task CV#1&2 Markdown & Git
