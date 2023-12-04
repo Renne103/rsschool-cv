@@ -15,13 +15,14 @@
 **Telegram:** @Renni103
 
 **English:** B2
-
+---
 
 
 ### Education
 * **HSE University, Programm Engineering, Bachelors degree**
 * RSSchool
 * Another online courses
+
 ### Skills
 My _major_ skills:
 * HTML
