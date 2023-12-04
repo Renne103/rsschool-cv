@@ -1,13 +1,19 @@
 # CV
 ## Junior Frontend Developer
-![Avatar]()
+![Avatar](https://sun9-34.userapi.com/impg/rZ923LI95NhBrXSRcS49pGuKbC1kOJ8IxmgKog/Gv_21D6YiGA.jpg?size=1620x2160&quality=95&sign=f6ea4f5bc9781a54029a7e460028965c&type=album)
 ## Contact information
 **Name:** Sologub Alina 
+
 **Age:** 20
+
 **Location:** Moscow, Russia
+
 **Phone:** +79307190219 
+
 **Email:** alinasworking@gmail.com
+
 **Telegram:** @Renni103
+
 **English:** B2
 
 
