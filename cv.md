@@ -1,4 +1,4 @@
-!([фото].\assets\photo.jpg)
+![фото](.\assets\photo.jpg)
 
 # Sologub Alina Denisovna
 ## 21 age
