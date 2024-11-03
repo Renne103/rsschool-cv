@@ -54,4 +54,4 @@ const func = (num) => {
 ```
 
 ## Projects
-[Link to Github]https://github.com/Renne103
+[Link to Github](https://github.com/Renne103)
