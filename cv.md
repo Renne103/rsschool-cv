@@ -6,7 +6,9 @@
 
 # Contact information
 *+7(930) 719-02-19*
+
 *tg: @Renni103*
+
 *discord: @solo_alina*
 
 Since I was fourteen I worked on the factory, after that I worked at different part vacancies as cleaner, flyer and other. That's why I have a strength and desire to learn smth new.
@@ -46,3 +48,6 @@ const func = (num) => {
   return num + 1;
 };
 ```
+
+## Projects
+[Link to Github]https://github.com/Renne103
