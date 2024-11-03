@@ -1,10 +1,10 @@
-![фото](.\assets\photo.jpg)
+![image](./assets/photo.jpg)
 
 # Sologub Alina Denisovna
-## 21 age
-## Russia, Moscow
+### 21 age
+### Russia, Moscow
 
-# Contact information
+## Contact information
 *+7(930) 719-02-19*
 
 *tg: @Renni103*
@@ -21,21 +21,25 @@ Since I was fourteen I worked on the factory, after that I worked at different p
 
 
 ## Skills
-* HTML
-* CSS
-* JavaScript
-* Git
+* HTML5
+* CSS3
+* JavaScript Basics
+* Git, GitHub
 * Python
 * OOP
 * React
-* VS code
+* VS Code
+* Figma
+* Photoshop
 
 ## Work Experience
 ### RS School course
+### JavaScript Manual on learnjavascript.ru (in progress)
 
 
-## English Language
-### B2
+## Language
+### English - B2
+### Russian - Native
 
 
 
