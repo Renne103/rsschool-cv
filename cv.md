@@ -33,13 +33,13 @@ Since I was fourteen I worked on the factory, after that I worked at different p
 * Photoshop
 
 ## Work Experience
-### RS School course
-### JavaScript Manual on learnjavascript.ru (in progress)
+RS School course
+JavaScript Manual on learnjavascript.ru (in progress)
 
 
 ## Language
-### English - B2
-### Russian - Native
+##### English - B2
+##### Russian - Native
 
 
 
